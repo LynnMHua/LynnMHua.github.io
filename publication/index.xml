@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Lynn M. Hua</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>The Distributional Implications of Employer Risk-Adjustment with Inertial Consumers</title>
+      <link>/publication/working-paper/riskadj/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper/riskadj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Does Cost-Sharing Impact Spending Growth and Cost-Effective Treatments? Evidence from Deductibles</title>
+      <link>/publication/working-paper/hdhp/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper/hdhp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Equity Acquisitions of Physician Medical Groups Across Specialties, 2013-2016</title>
+      <link>/publication/published-paper/private_equity/private_equity/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper/private_equity/private_equity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Area Variation in Morbidity Among Low-Income, Older Adults in the United States</title>
+      <link>/publication/published-paper/lis/lis/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper/lis/lis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketplace Plans Provide Risk Protection, But Actuarial Values Overstate Realized Coverage For Most Enrollees</title>
+      <link>/publication/published-paper/marketplace/marketplace/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper/marketplace/marketplace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Racial Differences in Awareness of the Affordable Care Act and Application Assistance Among Low-Income Adults in Three Southern States</title>
+      <link>/publication/published-paper/navigators/navigators/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper/navigators/navigators/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
